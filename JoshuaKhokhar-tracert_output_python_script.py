@@ -2,8 +2,8 @@
 Script Name: JoshuaKhokhar-tracert_output_python_script.py
 Author: Joshua Khokhar
 Creation Date: 6/20/2023
-Purpose: Retreives the number and duration of hops encountered by the packet
-on its way to its destination and writes it to a text file.
+Purpose: Retrieves the number and duration of hops encountered by the packet
+on its way to its destination specified by the user and writes it to a text file.
 """
 
 import subprocess
