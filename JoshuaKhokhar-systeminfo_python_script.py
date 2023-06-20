@@ -1,6 +1,7 @@
 """
+Script Name: JoshuaKhokhar-systeminfo_python_script.py
 Author: Joshua Khokhar
-Created: 6/17/2023
+Creation Date: 6/17/2023
 Purpose: Retrives current system information and writes it to a CSV file
 """
 
